@@ -1,0 +1,22 @@
+{
+    "name": "gh4j-staging",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {
+      "lodash": "4.17.11"
+    },
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/pranay-atlassian/gh4j-staging.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/pranay-atlassian/gh4j-staging/issues"
+    },
+    "homepage": "https://github.com/pranay-atlassian/gh4j-staging#readme"
+  }
